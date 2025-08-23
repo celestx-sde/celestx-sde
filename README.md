@@ -18,4 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=celest-sde&show_icons=true&locale=en" alt="celest-sde" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celest-sde" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celest-sde" />
+</div>
+
