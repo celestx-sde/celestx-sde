@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
-<h3 align="center">Backend-focused Software Engineer based in India, with a strong foundation in full-stack development, automation, and scalable system design.</h3>
+<div class="about-subtitle" style="text-align: right;">
+  Aspiring Software Engineer &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; DSA Enthusiast &nbsp;|&nbsp; Open to Remote and Hybrid Opportunities
+</div>
+
+  <br>
+<p align="justify">
+Backend-focused Software Engineer based in India, with a strong foundation in full-stack development, automation, and scalable system design. Proficient in building reliable back-end services, designing efficient deployment pipelines, and implementing best practices for performance and maintainability. Eager to contribute to impactful software projects while progressively advancing towards DevOps-oriented roles.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celest-sde&label=Profile%20views&color=0e75b6&style=flat" alt="celest-sde" /> </p>
 
