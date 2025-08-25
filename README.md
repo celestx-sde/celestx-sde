@@ -11,15 +11,18 @@
 <p align="justify">
 Backend-focused Software Engineer based in India, with a strong foundation in full-stack development, automation, and scalable system design. Proficient in building reliable back-end services, designing efficient deployment pipelines, and implementing best practices for performance and maintainability. Eager to contribute to impactful software projects while progressively advancing towards DevOps-oriented roles.
 </p>
+<p align="right">
+  <a href="https://www.linkedin.com/in/tchandra-vardhan/" target="_blank">
+    <img src="linkedin.gif" alt="LinkedIn" width="40" height="40" />
+  </a>
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celest-sde&label=Profile%20views&color=0e75b6&style=flat" alt="celest-sde" /> </p>
 
 
-
 - 🌱 I’m currently learning **C++**
 - 💬 Ask me about **AUTOMATION, RASPBERRY PI**
-
 
 
 
@@ -34,4 +37,6 @@ Backend-focused Software Engineer based in India, with a strong foundation in fu
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celest-sde" />
 </div>
+
+
 
