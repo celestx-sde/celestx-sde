@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.gif" alt="Banner" height="600" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
 <div class="about-subtitle" align = "center">
   Aspiring Software Engineer &nbsp;|&nbsp; Backend Developer &nbsp;|&nbsp; DSA Enthusiast &nbsp;|&nbsp; Open to Remote and Hybrid Opportunities
