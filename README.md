@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.gif" alt="Banner" height="600" width="100%" />
+  <img src="github-banner.gif" alt="Banner" height="400" width="60%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Chandra Vardhan</h1>
