@@ -28,11 +28,11 @@ Backend-focused Software Engineer from India with strong proficiency in full-sta
 <br><br></p>
 
 <div align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=celest-sde&show_icons=true&locale=en" alt="celestx-sde" />
+ <img src="https://github-readme-stats.vercel.app/api?username=celestx-sde&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celestx-sde" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=celestx-sde&theme=tokyonight&hide_border=true" />
 </div>
 
 
