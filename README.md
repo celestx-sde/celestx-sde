@@ -32,7 +32,7 @@ Backend-focused Software Engineer from India with strong proficiency in full-sta
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celest-sde" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=celest-sde&" alt="celestx-sde" />
 </div>
 
 
